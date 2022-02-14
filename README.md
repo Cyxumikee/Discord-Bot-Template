@@ -6,7 +6,8 @@ Bot is writed in JavaScript/Nodejs
 ## REQUIREMENTS
 1) Visual Studio Code (Recomended)
 2) Inside your TERMINAL write npm install discord.js
-3) Put your Discord bot token inside .env file
+3) Create .env file and put inside: CLIENT_TOKEN='your_token'
+
 
 ## Credits
 Made by Cyxum#0001
